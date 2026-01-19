@@ -1,0 +1,59 @@
+Uncaught SecurityError: Failed to read a named property 'search' from 'Location': Blocked a frame with origin "https://chathispano.com" from accessing a cross-origin frame.
+player:1 Access to fetch at 'https://panel.radio-40music.com/panelradiotv/server/public/api/radio-app/2' from origin 'https://radio-40music.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+panel.radio-40music.com/panelradiotv/server/public/api/radio-app/2:1 
+            
+            
+           Failed to load resource: net::ERR_FAILED
+main.min.js:1086 Error: TypeError: Failed to fetch
+    at main.min.js:1059:5
+(anonymous) @ main.min.js:1086
+chathispano.min.js?date=20201115:1 2025-09-21 09:13:02.895 # Loaded api plugin.
+chathispano.min.js?date=20201115:1 2025-09-21 09:13:02.896 # Loaded bind plugin.
+Misc.js:439 deprecated component.$el added to plugin api, please switch to just passing the vue.js component object
+J @ Misc.js:439
+chathispano.min.js?date=20201115:1 Received new subscription type: 
+player:1 Access to fetch at 'https://api.radiomixsoloexitos.com/api.php?url=https%3A%2F%2Fradios.bachistreaming.com%2F8060%2Fstream' from origin 'https://radio-40music.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+api.radiomixsoloexitos.com/api.php?url=https%3A%2F%2Fradios.bachistreaming.com%2F8060%2Fstream:1 
+            
+            
+           Failed to load resource: net::ERR_FAILED
+main.min.js:876 Error al obtener los datos del stream: TypeError: Failed to fetch
+    at main.min.js:874:25
+    at _0x4a93f3 (main.min.js:879:8)
+    at main.min.js:1287:5
+(anonymous) @ main.min.js:876
+main.min.js:898 Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'trim')
+    at _0x4a93f3 (main.min.js:898:42)
+webchat?&chan=mas_ritmo:2019 Fixed nav CSS
+player:1 Access to fetch at 'https://panel.radio-40music.com/panelradiotv/server/public/api/noticia-app/2' from origin 'https://radio-40music.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+panel.radio-40music.com/panelradiotv/server/public/api/noticia-app/2:1 
+            
+            
+           Failed to load resource: net::ERR_FAILED
+main.min.js:1172 Error: TypeError: Failed to fetch
+    at main.min.js:1115:11
+    at main.min.js:1175:9
+(anonymous) @ main.min.js:1172
+player:1 Access to fetch at 'https://panel.radio-40music.com/panelradiotv/server/public/api/video-app/2' from origin 'https://radio-40music.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+panel.radio-40music.com/panelradiotv/server/public/api/video-app/2:1 
+            
+            
+           Failed to load resource: net::ERR_FAILED
+main.min.js:1256 Error: TypeError: Failed to fetch
+    at main.min.js:1238:11
+    at main.min.js:1259:9
+(anonymous) @ main.min.js:1256
+player:1 Access to fetch at 'https://panel.radio-40music.com/panelradiotv/server/public/api/promocion-app/2' from origin 'https://radio-40music.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+panel.radio-40music.com/panelradiotv/server/public/api/promocion-app/2:1 
+            
+            
+           Failed to load resource: net::ERR_FAILED
+main.min.js:1108 Error: TypeError: Failed to fetch
+    at main.min.js:1090:7
+(anonymous) @ main.min.js:1108
+
+                
+          
+          
+          
+         Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
